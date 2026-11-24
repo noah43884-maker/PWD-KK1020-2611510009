@@ -1,4 +1,4 @@
-# Pertemuan 1 - Pemrograman Web Dasar
+# Pertemuan -1 Dokumentasi pemahaman Konsep Dasar Pemrograman Web
 ## 1. Konsep Dasar Pemrograman Web
 Pemrograman web adalah cara membuat halaman atau aplikasi yang bisa dibuka lewat peramban web (*Web Browser*) melalui jaringan seperti internet. Halaman web umumnya dibagi menjadi web statis yang isinya tetap sama kecuali kode berkasnya diubah secara manual, dan web dinamis yang kontennya dapat berubah mengikuti data, waktu, atau interaksi pengguna.
 ## 2. Arsitektur Klien-Peladen 
